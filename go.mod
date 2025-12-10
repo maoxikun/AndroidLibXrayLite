@@ -4,7 +4,7 @@ go 1.25
 
 require (
 	github.com/xtls/xray-core v1.251208.0
-	golang.org/x/mobile v0.0.0-20251126181937-5c265dc024c4
+	golang.org/x/mobile v0.0.0-20251209145715-2553ed8ce294
 )
 
 require (
@@ -48,7 +48,7 @@ require (
 	google.golang.org/grpc v1.77.0 // indirect
 	google.golang.org/protobuf v1.36.10 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	gvisor.dev/gvisor v0.0.0-20251208201337-b42c83311c5b // indirect
+	gvisor.dev/gvisor v0.0.0-20251209211007-f417d9b6ea17 // indirect
 	lukechampine.com/blake3 v1.4.1 // indirect
 )
 
