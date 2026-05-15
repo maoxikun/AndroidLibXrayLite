@@ -4,7 +4,7 @@ go 1.26
 
 require (
 	github.com/xtls/xray-core v1.260327.1-0.20260509173629-1bdb488c9ec0
-	golang.org/x/mobile v0.0.0-20260508232728-bebd421c7fa8
+	golang.org/x/mobile v0.0.0-20260514233045-7de0a8fa7f4d
 )
 
 require (
